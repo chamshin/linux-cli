@@ -12,5 +12,5 @@
 - [curl](https://github.com/shinbaak/linux-cli/blob/master/curl.md) - URL 서버 통신
 - [alias](https://github.com/shinbaak/linux-cli/blob/master/alias.md) - 별칭 생성
 - [man](https://github.com/shinbaak/linux-cli/blob/master/man.md) - 메뉴얼 출력
-- [cat](https://github.com/shinbaak/linux-cli/blob/master/cat.md) - 파일 내용 
+- [cat](https://github.com/shinbaak/linux-cli/blob/master/cat.md) - 파일 내용 출력
 
